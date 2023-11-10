@@ -15,6 +15,7 @@ class HomePageViewController: UIViewController, ScoreResult {
             if finalScore != ""{
                 discriptionLabel.text = "You Total Score is " + finalScore + "\n continue to next Quiz.."
             }
+            
         }
     }
   
